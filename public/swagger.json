@@ -1,9 +1,9 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "API de Gestion des Apprenants",
+    "title": "API de Gestion des Apprenants __Serigne fallou seck",
     "version": "1.0.0",
-    "description": "API de Serigne fallou seck"
+    "description": "API de .........."
   },
   "components": {
     "securitySchemes": {
