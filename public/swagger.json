@@ -3,7 +3,7 @@
   "info": {
     "title": "API de Gestion des Apprenants",
     "version": "1.0.0",
-    "description": "API pour la gestion des Apprenants"
+    "description": "API de Serigne fallou seck"
   },
   "components": {
     "securitySchemes": {
